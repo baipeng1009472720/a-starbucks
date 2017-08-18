@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/card/card"
+  ],
+  "window": {
+    "defaultTitle": "星巴克用星说",
+    "titleBarColor": "#F9F9F9",
+    "backgroundColor":"#ffffff"
+  }
+}
