@@ -4,4 +4,6 @@
 ![输入图片说明](https://git.oschina.net/uploads/images/2017/0818/222553_97ca8b9c_329748.png "47BAEA34-7DCA-4671-8B17-6DD9688FE0E7.png")
 
 
-![输入图片说明](https://git.oschina.net/uploads/images/2017/0818/222932_12f6cca8_329748.jpeg "6961503066523_.pic_thumb.jpg")
+# 微信交流群
+
+![输入图片说明](https://git.oschina.net/uploads/images/2017/0818/223213_78192506_329748.jpeg "6961503066523_.pic_hd.jpg")
